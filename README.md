@@ -28,7 +28,7 @@ Feel free to try out your own image by replacing `images/dog.png` with a file pa
 
 ![Dog Localization][image1]
 
-## Blog Post
+## Notice
 
 This project is modified and download from this blog post [here](https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/).
 
